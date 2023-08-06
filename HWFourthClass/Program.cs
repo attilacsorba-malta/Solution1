@@ -5,11 +5,11 @@ namespace HWFourthClass
     internal class Program
     {
         static void Main(string[] args)
-        //{
-        ////**********************************************************************************
-        ////Class four HW task 1
+        {
+            ////**********************************************************************************
+            ////Class four HW task 1
 
-        Console.WriteLine("Input a string:");
+            Console.WriteLine("Input a string:");
 
         string input = Console.ReadLine();
         int inputLenght = input.Length;
